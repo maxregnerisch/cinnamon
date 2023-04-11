@@ -80,7 +80,7 @@ jobs:
         linuxmint/nemo-terminal,
         linuxmint/nemo-preview,
         linuxmint/nemo-quick-look,
-		    linuxmint/nemo-seahorse,
+	linuxmint/nemo-seahorse,
         linuxmint/nemo-vcs,
         linuxmint/nemo-xml-tools,
         linuxmint/nemo-extensions,
